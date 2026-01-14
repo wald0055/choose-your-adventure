@@ -1,2 +1,2 @@
 # choose-your-adventure
-Evan W, Evan S, Davin B
+Evan W, Evan S, Davin B, Gazel 
