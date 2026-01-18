@@ -6,3 +6,5 @@ On your left you have a tall strong rhino giving away free gold chains, To your 
 You feel a pull in both directions
 
 What do you do next?
+
+- [Follow the music in the distance...](music.md)
