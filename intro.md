@@ -7,4 +7,4 @@ You feel a pull in both directions
 
 What do you do next?
 
-[Follow the music in the distance...](music.md)
+- [Follow the music in the distance...](music.md)
