@@ -1,4 +1,4 @@
-# The mysterious door
+# The Mysterious Door
 
 You open the door and walk through.
 There is nothing but darkness surrounding you, except for a small glowing item on a pedestal far into the room.
