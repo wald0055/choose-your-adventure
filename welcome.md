@@ -1,4 +1,4 @@
-# Life is good
+# Life Is Good
 
 As you dap up the rhino, you realize you have no idea what you were just welcomed into.
 Looking around the room though, you are filled with a sense of belonging and purpose you were missing in your life before this.
@@ -12,6 +12,6 @@ But as you look around one more time at all your new comrades, all that doubt be
 
 You may not know exaclty what is going on, or why you are even here, but you are happy.
 
-# The end.
+# The End.
 
 - [Try for another ending here](intro.md)

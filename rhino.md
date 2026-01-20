@@ -1,4 +1,4 @@
-# Tall strong rhino
+# Tall Strong Rhino
 
 You walk up to the rhino, he looks tough and scary. Without saying a word, he pulls out a box of gold.  
 He puts the chain around your neck.
